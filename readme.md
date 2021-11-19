@@ -2,6 +2,8 @@
 
 ## 1 综合资源
 
+https://t.me/PolygonChina_Dev
+
 ### Polygon介绍
 - [Polygon精简介绍](https://biquan365.com/12636.html)
 - [Polygon基础介绍和使用教程](https://www.yuque.com/docs/share/8e737364-c380-418e-af21-0f07095fe900)
