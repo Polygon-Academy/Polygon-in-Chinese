@@ -1,7 +1,6 @@
 # Polygon中文参考资源
 
 ## 1 综合资源
----
 
 ### Polygon介绍
 - [Polygon精简介绍](https://biquan365.com/12636.html)
@@ -24,13 +23,11 @@
 
 
 ## 2 Polygon申请
----
 
 - [Polygon 官宣申请表](https://airtable.com/shrDaWf1UYNzkhTbg)
 - [Polygon Grant申请](https://polygon.technology/developer-support-program/)
 
 ## 3 Polygon开发者资源
----
 
 ### How to
 - [如何使用预言机](https://docs.matic.network/docs/develop/oracles/getting-started)
